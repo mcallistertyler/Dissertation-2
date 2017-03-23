@@ -10,3 +10,7 @@ Windows 7, 8, 8.1, 10
 Python 3.5 (3.6 will not work)
 
 Nvidia GPU, list of supported GPUs: https://developer.nvidia.com/cuda-gpus
+
+#How to run
+1. python selection.py
+2. When running a new agent empty the 'savedNetworks' folder.
